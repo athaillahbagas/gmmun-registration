@@ -2,12 +2,14 @@
 
 Dashboard berbahasa Indonesia untuk membantu pembahasan registrasi GMMUN dengan panitia dan hotel.
 
+[Buka dashboard](https://athaillahbagas.github.io/gmmun-registration/)
+
 ## Isi
 
 - `index.html`: dashboard interaktif, tanpa dependensi eksternal.
-- `GMMUN_Ringkasan_Registrasi.pdf`: ringkasan empat halaman.
-- `GMMUN_Registration_Validation_Pack.pdf`: keputusan terbuka, audit perhitungan, draft alur, dan rencana uji.
-- `GMMUN_Registration_Capacity.xlsx`: spreadsheet dengan input yang dapat diubah.
+- [GMMUN_Ringkasan_Registrasi.pdf](GMMUN_Ringkasan_Registrasi.pdf): ringkasan empat halaman.
+- [GMMUN_Registration_Validation_Pack.pdf](GMMUN_Registration_Validation_Pack.pdf): keputusan terbuka, audit perhitungan, draft alur, dan rencana uji.
+- [GMMUN_Registration_Capacity.xlsx](GMMUN_Registration_Capacity.xlsx): spreadsheet dengan input yang dapat diubah.
 
 ## Status analisis
 
@@ -19,6 +21,6 @@ Perbandingan kapasitas memakai waktu dasar untuk setiap registrasi ditambah wakt
 
 ## Menjalankan
 
-Buka `index.html` di browser atau gunakan GitHub Pages dari branch `main`, folder `/ (root)`. Semua unduhan memakai jalur relatif.
+Buka dashboard melalui tautan di atas. Untuk penggunaan lokal, unduh repositori ini, ekstrak berkasnya, lalu buka `index.html` di browser. Pertahankan susunan folder agar tautan unduhan relatif tetap berfungsi.
 
 Acuan substansi: Validation Pack v0.1, 12 Oktober 2026.
