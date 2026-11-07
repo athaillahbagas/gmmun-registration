@@ -24,3 +24,13 @@ Perbandingan kapasitas memakai waktu dasar untuk setiap registrasi ditambah wakt
 Buka dashboard melalui tautan di atas. Untuk penggunaan lokal, unduh repositori ini, ekstrak berkasnya, lalu buka `index.html` di browser. Pertahankan susunan folder agar tautan unduhan relatif tetap berfungsi.
 
 Acuan substansi: Validation Pack v0.1, 12 Oktober 2026.
+
+## Meninjau skenario bersama panitia
+
+1. Buka dashboard dan catat input skenario yang sedang dibahas.
+2. Gunakan [spreadsheet kapasitas](GMMUN_Registration_Capacity.xlsx) untuk menelusuri input dan perhitungannya. Catat setiap perubahan asumsi agar skenario dapat dibandingkan kembali.
+3. Baca keputusan terbuka dan rencana uji di [Validation Pack](GMMUN_Registration_Validation_Pack.pdf) sebelum menjadikan hasil hitung sebagai dasar pengaturan lapangan.
+4. Konfirmasikan izin pendamping, petugas aktif, rilis kunci dan batas okupansi resmi dengan pihak terkait.
+5. Gunakan [ringkasan registrasi](GMMUN_Ringkasan_Registrasi.pdf) untuk pembahasan singkat; sertakan status keputusan dan asumsi yang masih terbuka.
+
+Saat membagikan hasil, cantumkan skenario input dan acuan versi. Hasil kapasitas ideal saja belum memvalidasi antrean, waktu tunggu atau keamanan okupansi. Susunan loket tetap kandidat sampai keputusan dan uji lapangan diselesaikan.
